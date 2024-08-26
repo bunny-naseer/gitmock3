@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello naseer 
+=======
+hello naseer in branch3
+>>>>>>> branch3
